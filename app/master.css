@@ -1,0 +1,24 @@
+H1, H2 {
+    font-family: 'Metamorphous', cursive;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #212529;
+}
+
+.img-fluid {
+    width: 700px;
+    height: 400px;
+}
+
+.title-mar {
+    margin-top: 30px;
+}
+
+.header-mar {
+    margin-bottom: -15px;
+}
