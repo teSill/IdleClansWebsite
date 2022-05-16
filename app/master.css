@@ -13,7 +13,11 @@ body {
 }
 
 .header-css {
-    margin-bottom: -40px;
+    margin-bottom: 40px;
     max-width: 55%;
     height: auto;
+}
+
+.call-to-action {
+    padding-left: 45px;
 }
