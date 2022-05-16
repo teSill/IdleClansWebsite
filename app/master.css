@@ -9,6 +9,7 @@ p {
 body {
     background-color: #212529;
     background-image: linear-gradient(#212529, rgb(72, 168, 237));
+	background: linear-gradient(90deg, rgba(8,40,55,1) 0%, rgba(23,72,94,1) 35%, rgba(51,217,178,1) 100%);
 }
 
 .header-css {
